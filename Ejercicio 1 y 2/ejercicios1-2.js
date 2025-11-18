@@ -1,4 +1,5 @@
 // Definición del objeto alumno
+// Nuevo comentario
 let alumno = {
     edad: 18,
     admin: false,
