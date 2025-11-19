@@ -2,8 +2,9 @@
 let alumno = {
     edad: 18,
     admin: false,
-    stats: {
-        posts: 0,
+    // Modificamos propiedad posts
+	stats: {
+        posts: 1,
         followers: 0
     },
 
