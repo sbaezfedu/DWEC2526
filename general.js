@@ -10,6 +10,7 @@ let alumno = {
     },
 
     // Método para incrementar stats solo si se reciben los valores adecuados
+	// Comentario para práctica Unidad 5
     incrementarStats(tipo, n) {
         if (this.stats?.[tipo] != undefined) {
             if (typeof n == "number" && !isNaN(n)) {
