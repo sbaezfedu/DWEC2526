@@ -1,4 +1,5 @@
 // Definición del objeto alumno
+// Para React. Se añade useEffect
 let alumno = {
     edad: 18,
     admin: false,
