@@ -1,4 +1,5 @@
 // Definición del objeto alumno
+// Para GitHub
 let alumno = {
     edad: 18,
     admin: false,
